@@ -17,3 +17,4 @@ E Müstahsil uygulaması içinde yine terminalde aşağıdaki kod koşularak ilg
 
 Generate models.
 >xsdata Files/xsdrt/maindoc/UBL-CreditNote-2.1.xsd --generated
+Proje kapsamında kullanılan xsd belgeleri Gelir İdare Başkanlığı tarafından yayınlar UBL-TR formatına uygun standart belgelerdir.

@@ -1,6 +1,8 @@
 # Xml-Class-Generator-From-Xsd
+
+Bu Proje e dönüşüm uygulamaları kapsamında e belgelerde kullanılan xml belgesi üretmek amacıyla gerçekleştirilmiştir. 
  
-Bu proje kapsamında ilk olarak e fatura uygulaması için xml oluşturulacaktır. Öncelikle aşağıdaki kütüphane kurulumu yapılır.
+Proje kapsamında ilk olarak e fatura uygulaması için xml oluşturulacaktır. Öncelikle aşağıdaki kütüphane kurulumu yapılır.
 
 Install all dependencies.
 >pip install xsdata[cli,lxml,soap].
